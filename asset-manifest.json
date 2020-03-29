@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/notion-formulas/static/css/main.5f361e03.chunk.css",
+    "main.js": "/notion-formulas/static/js/main.7baf1c6d.chunk.js",
+    "main.js.map": "/notion-formulas/static/js/main.7baf1c6d.chunk.js.map",
+    "runtime-main.js": "/notion-formulas/static/js/runtime-main.753233b9.js",
+    "runtime-main.js.map": "/notion-formulas/static/js/runtime-main.753233b9.js.map",
+    "static/js/2.2833f18a.chunk.js": "/notion-formulas/static/js/2.2833f18a.chunk.js",
+    "static/js/2.2833f18a.chunk.js.map": "/notion-formulas/static/js/2.2833f18a.chunk.js.map",
+    "index.html": "/notion-formulas/index.html",
+    "precache-manifest.0198a79201794593c2a49f67eb650830.js": "/notion-formulas/precache-manifest.0198a79201794593c2a49f67eb650830.js",
+    "service-worker.js": "/notion-formulas/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/notion-formulas/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2833f18a.chunk.js.LICENSE.txt": "/notion-formulas/static/js/2.2833f18a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/notion-formulas/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.753233b9.js",
+    "static/js/2.2833f18a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7baf1c6d.chunk.js"
+  ]
+}
